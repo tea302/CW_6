@@ -35,7 +35,7 @@ psycopg2==2.9.3
 pycparser==2.21
 PyJWT==2.3.0
 pyparsing==3.0.7
-python-dotenv==0.19.2
+python-dotenv~=1.0.0
 python3-openid==3.2.0
 pytz==2021.3
 requests==2.27.1
@@ -49,3 +49,5 @@ sqlparse==0.4.2
 tomli==2.0.1
 uritemplate==4.1.1
 urllib3==1.26.8
+
+django-email-users~=1.1.0
